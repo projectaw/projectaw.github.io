@@ -1,6 +1,6 @@
 ---
-gambar: /assets/picture/slider-1-1425x777-lapangan-tenis.jpg
-height: 777
-width: 1425
+gambar: /assets/picture/slider-1-1078x588-lapangan-tenis.jpg
+height: 588
+width: 1078
 link: /jasa
 ---
